@@ -1,19 +1,6 @@
-<div style="text-align:center;">
-  <style>
-    .slideshow {
-      color: #0066ff;
-      animation-name: slide;
-      animation-duration: 1.5s;
-      animation-iteration-count: infinite;
-    }
-    @keyframes slide {
-      0% {opacity: 0.2;}
-      50% {opacity: 1;}
-      100% {opacity: 0.2;}
-    }
-  </style>
-  <h1><span class="slideshow">Hello, Welcome to my GitHub page!</span></h1>
-</div>
+<p align="center">
+  <font color="#0066ff"><h1>Hello, World! 👋</h1></font>
+</p>
 I'm Alex Nyaga, a Data analysis and business intelligence enthusiast from Nairobi, Kenya
 
 ## 👨‍💻 About Me
