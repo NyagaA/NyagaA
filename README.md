@@ -1,6 +1,6 @@
 ## Hello there 🙋‍♂️
 
-I'm ALex Nyaga a Data analysis and business intelligence enthusiast from Nairobi, Kenya
+I'm ALex Nyaga, a Data analysis and business intelligence enthusiast from Nairobi, Kenya
 
 ## 👨‍💻 About Me
 - Passionate about using data to derive meaningful insights, inform business decisions, and develop innovative solutions. 
