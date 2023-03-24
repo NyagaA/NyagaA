@@ -1,4 +1,4 @@
-## Hello, Welcome to my GitHub page!
+# Hello, Welcome to my GitHub page!
 
 + I'm Alex Nyaga, a Data Analysis and Business Intelligence enthusiast from Nairobi, Kenya.
 
