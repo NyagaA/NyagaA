@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hello there 🙋‍♂️
 
-<!--
-**NyagaA/NyagaA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm ALex Nyaga a Data analysis and business intelligence enthusiast from Nairobi, Kenya
 
-Here are some ideas to get you started:
+## 👀 About Me
+- Passionate about using data to derive meaningful insights, inform business decisions, and develop innovative solutions. 
+- I believe in the power of data-driven decision-making, and I'm always exploring and analyzing data using various business intelligence tools, data visualization techniques, data mining, and predictive modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 Skills
+- SQL
+- Tableau
+- Power BI
+- Zebra BI
+
+## 🎯 Goal
+- Develop data-driven solutions that enable businesses to optimize their operations, improve their customer experiences, and achieve their strategic objectives.
+
+## 📇 Get in touch
+If you'd like to learn more about my work or discuss a potential collaboration, please feel free to reach out to me via;
++ [LinkedIn](https://www.linkedin.com/in/alex-nyaga-2446aa208/) 
++ [Email](nyagalex98@gmail.com) 
+I'm always looking for new opportunities to learn and grow as a data professional.
+
+#Thank you for visiting my profile!
+
