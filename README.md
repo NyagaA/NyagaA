@@ -1,6 +1,6 @@
 ## Hello, Welcome to my GitHub page!
 
-I'm Alex Nyaga, a Data analysis and business intelligence enthusiast from Nairobi, Kenya.
+I'm Alex Nyaga, a Data Analysis and Business Intelligence enthusiast from Nairobi, Kenya.
 
 ## 👨‍💻 About Me
 - Passionate about using data to derive meaningful insights, inform business decisions, and develop innovative solutions. 
