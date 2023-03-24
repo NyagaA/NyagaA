@@ -1,6 +1,5 @@
-<p align="center">
-  <font color="#0066ff"><h1>Hello, World! 👋</h1></font>
-</p>
+## Hello, Welcome to my GitHub page!
+
 I'm Alex Nyaga, a Data analysis and business intelligence enthusiast from Nairobi, Kenya
 
 ## 👨‍💻 About Me
