@@ -21,5 +21,5 @@ I'm ALex Nyaga, a Data analysis and business intelligence enthusiast from Nairob
 + [Email](nyagalex98@gmail.com) 
 
 
-##Thank you for visiting my profile!
+## Thank you for visiting my profile!
 
