@@ -1,4 +1,4 @@
-### Hello there 🙋‍♂️
+## Hello there 🙋‍♂️
 
 I'm ALex Nyaga a Data analysis and business intelligence enthusiast from Nairobi, Kenya
 
@@ -16,10 +16,10 @@ I'm ALex Nyaga a Data analysis and business intelligence enthusiast from Nairobi
 - Develop data-driven solutions that enable businesses to optimize their operations, improve their customer experiences, and achieve their strategic objectives.
 
 ## 📇 Get in touch
-- If you'd like to learn more about my work or discuss a potential collaboration, please feel free to reach out to me via;
+- I'm always looking for new opportunities to learn and grow as a data professional. If you'd like to learn more about my work or discuss a potential collaboration, please feel free to reach out to me via;
 + [LinkedIn](https://www.linkedin.com/in/alex-nyaga-2446aa208/) 
 + [Email](nyagalex98@gmail.com) 
-- I'm always looking for new opportunities to learn and grow as a data professional.
+
 
 ##Thank you for visiting my profile!
 
