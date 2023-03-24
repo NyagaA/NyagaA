@@ -13,12 +13,12 @@ I'm ALex Nyaga, a Data analysis and business intelligence enthusiast from Nairob
 - Zebra BI
 
 ## 🎯 Goal
-- Develop data-driven solutions that enable businesses to optimize their operations, improve their customer experiences, and achieve their strategic objectives.
+- Develop data-driven solutions that enable businesses to optimize their operations, improve customer experiences, and achieve their strategic objectives.
 
 ## 📇 Get in touch
 - I'm always looking for new opportunities to learn and grow as a data professional. If you'd like to learn more about my work or discuss a potential collaboration, please feel free to reach out to me via;
-+ [LinkedIn](https://www.linkedin.com/in/alex-nyaga-2446aa208/) 
-+ [Email](nyagalex98@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/alex-nyaga-2446aa208/) 
+- [Email](nyagalex98@gmail.com) 
 
 
 ## Thank you for visiting my profile!
