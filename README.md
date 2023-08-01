@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 - Passionate about using data to derive meaningful insights, inform business decisions, and develop innovative solutions.
-- I believe in the power of data-driven decision-making, and I'm always exploring and analyzing data using various business intelligence tools, data visualization techniques, data mining, and predictive modeling.
+- I believe in the power of data-driven decision-making, and I'm always exploring and analyzing data using various business intelligence tools and data visualization techniques.
 
 ## 💡 Skills
 - SQL
