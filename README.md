@@ -8,11 +8,11 @@
 
 ## 💡 Skills
 - SQL
-- Tableau
 - Power BI
 - Zebra BI
 - Excel
-
+- Tableau
+  
 ## 🎯 Goal
 - Develop data-driven solutions that enable businesses to optimize their operations, improve customer experiences, and achieve their strategic objectives.
 
